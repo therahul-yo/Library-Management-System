@@ -18,28 +18,6 @@ A simple Library Management System implemented in C++ that allows the management
 - **C++ Compiler** (e.g., GCC)
 - **Operating System**: Windows, macOS, or Linux
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone <repository_url>
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd LMS
-    ```
-
-3. Compile the code:
-    ```bash
-    g++ lms.cpp -o lms
-    ```
-
-4. Run the program:
-    ```bash
-    ./lms
-    ```
-
 ## How It Works
 
 1. Add books and students using the `addBook` and `addStudent` functions.
@@ -47,10 +25,3 @@ A simple Library Management System implemented in C++ that allows the management
 3. Return books using the `returnBook` function.
 4. View the available books and registered students by calling the `displayBooks` and `displayStudents` functions.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests if you'd like to contribute to this project!
-
-## License
-
-This project is open-source and available under the MIT License.
